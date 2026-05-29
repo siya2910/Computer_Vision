@@ -1,4 +1,4 @@
-# 🎯 Face Recognition Attendance System
+#  Face Recognition Attendance System
 
 A real-time attendance marking system built with Python, OpenCV, and face_recognition. The system detects and recognizes faces via webcam, automatically logs attendance with date and time into a CSV file, and displays a live GUI dashboard built with Tkinter.
 
