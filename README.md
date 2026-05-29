@@ -4,7 +4,7 @@ A real-time attendance marking system built with Python, OpenCV, and face_recogn
 
 ---
 
-## 📸 Features
+##  Features
 
 - Real-time face detection and recognition using webcam
 - Automatic attendance logging with **Name**, **Date**, and **Time**
